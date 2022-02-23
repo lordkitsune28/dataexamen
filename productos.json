@@ -4,7 +4,7 @@
             "id": 1,
             "nombre": "Limon con semilla",
             "preciom": "26.82",
-            "preciov": 39.9",
+            "preciov": "39.9",
             "precio": 26.82,
             "descuento": "32 dto.",
             "categoria": "oferta",
@@ -71,7 +71,7 @@
         {
             "id": 8,
             "nombre": "Mc Cormick Mayonesa",
-            "preciom": 48.5",
+            "preciom": "48.5",
             "precio": 48.5,
             "descuento": "507 g 0.1",
             "categoria": "popular",
